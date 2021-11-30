@@ -1,7 +1,10 @@
 [
   {
     "name": " YAMAHA–  niche web app",
-    "img": "",
+    "img": "https://i.ibb.co/Hg5HRVZ/yhama.png",
+    "screenshot1": "https://i.ibb.co/25FwLqQ/yamah.png",
+    "screenshot2": "https://i.ibb.co/rfQK5jz/details.png",
+    "screenshot3": "https://i.ibb.co/rfQK5jz/details.png",
     "loveLink": "https://yamaha-a7e18.firebaseapp.com/",
     "clientLink": "https://github.com/srikanto5120/niche-yahama-client-",
     "serverLink": "https://github.com/srikanto5120/niche-yahama-server",
@@ -12,7 +15,10 @@
   },
   {
     "name": "  World Tourism ",
-    "img": "",
+    "img": "https://i.ibb.co/WHcMQ92/hotel.png",
+    "screenshot1": "https://i.ibb.co/X26dmYD/tour.png",
+    "screenshot2": "https://i.ibb.co/4RGBNWf/booking.png",
+    "screenshot3": "https://i.ibb.co/PMLTQcS/about.png",
     "loveLink": "https://fullstacktourism.firebaseapp.com/",
     "clientLink": "https://github.com/srikanto5120/turisom-client",
     "serverLink": "https://github.com/srikanto5120/turisom-server",
@@ -23,7 +29,10 @@
   },
   {
     "name": "Health Care ",
-    "img": "",
+    "img": "https://i.ibb.co/d0PJNMV/health.png",
+    "screenshot1": "https://i.ibb.co/C5RLdKG/health.png",
+    "screenshot2": "https://i.ibb.co/9wcLg1X/booking-health.png",
+    "screenshot3": "https://i.ibb.co/BzN85qw/login-health.png",
     "loveLink": "https://medihealthcare-5c122.web.app",
     "clientLink": "https://github.com/srikanto5120/health-care-",
     "serverLink": "https://github.com/srikanto5120/niche-yahama-server",

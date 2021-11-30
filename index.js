@@ -1,6 +1,7 @@
 const express = require("express");
 const path = require("path");
 const { MongoClient } = require("mongodb");
+const ObjectId = require("mongodb").ObjectId;
 const app = express();
 const cors = require("cors");
 nodemailer = require("nodemailer");
@@ -31,12 +32,12 @@ async function run() {
       res.send(result);
     });
     // order get data
-    // app.get("/projects/:id", async (req, res) => {
-    //   const id = req.params.id;
-    //   const cursor = { _id: ObjectId(id) };
-    //   const result = await bikesCollection.findOne(cursor);
-    //   res.send(result);
-    // });
+    app.get("/projects/:id", async (req, res) => {
+      const id = req.params.id;
+      const cursor = { _id: ObjectId(id) };
+      const result = await projectsCollection.findOne(cursor);
+      res.send(result);
+    });
 
     console.log("bikes");
   } finally {
