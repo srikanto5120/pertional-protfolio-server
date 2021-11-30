@@ -1,0 +1,35 @@
+[
+  {
+    "name": " YAMAHA–  niche web app",
+    "img": "",
+    "loveLink": "https://yamaha-a7e18.firebaseapp.com/",
+    "clientLink": "https://github.com/srikanto5120/niche-yahama-client-",
+    "serverLink": "https://github.com/srikanto5120/niche-yahama-server",
+    "overview1": "Responsive MERN Stack app and an Implementation of Admin   Management Page.",
+    "overview2": "Implemented Authentication System with Firebase. ",
+    "overview3": "Transferred data from Heroku via CRUD operation to UI, and vice versa.",
+    "technology": "React, Bootstrap,, React Router, React Hook Form, Firebase Authentication, Nodejs, Express Js, MongoDB, Heroku, Firebase Hosting."
+  },
+  {
+    "name": "  World Tourism ",
+    "img": "",
+    "loveLink": "https://fullstacktourism.firebaseapp.com/",
+    "clientLink": "https://github.com/srikanto5120/turisom-client",
+    "serverLink": "https://github.com/srikanto5120/turisom-server",
+    "overview1": "Implemented React router",
+    "overview2": "Implemented user dashboard and CRUD operation",
+    "overview3": "Got backend data from Heroku to UI",
+    "technology": " React, Bootstrap, React Router, React Hook Form, Firebase Authentication, Nodejs, Express Js, MongoDB, Heroku, Firebase Hosting "
+  },
+  {
+    "name": "Health Care ",
+    "img": "",
+    "loveLink": "https://medihealthcare-5c122.web.app",
+    "clientLink": "https://github.com/srikanto5120/health-care-",
+    "serverLink": "https://github.com/srikanto5120/niche-yahama-server",
+    "overview1": "Responsive MERN Stack app and an Implementation of Admin   Management Page.",
+    "overview2": "Implemented two Authentication systems like email-password and Google Sign in ",
+    "overview3": " Fully Responsive for mobile and desktop versions. ",
+    "technology": "React, Boot, React Router, CSS, Firebase Authentication, Firebase Hosting."
+  }
+]
